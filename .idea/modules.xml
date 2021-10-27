@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/birinchi_loyixa_ishim.iml" filepath="$PROJECT_DIR$/birinchi_loyixa_ishim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/birinchi_loyixa_ishim_android.iml" filepath="$PROJECT_DIR$/android/birinchi_loyixa_ishim_android.iml" />
+    </modules>
+  </component>
+</project>

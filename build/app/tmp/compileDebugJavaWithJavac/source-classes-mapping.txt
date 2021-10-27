@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/birinchi_loyixa_ishim/BuildConfig.java
+ com.example.birinchi_loyixa_ishim.BuildConfig

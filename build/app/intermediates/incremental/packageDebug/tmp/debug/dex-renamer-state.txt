@@ -1,0 +1,4 @@
+#Wed Oct 27 16:33:47 UZT 2021
+base.0=/media/user/AE1246DE1246AB63/papke/birinchi_loyixa_ishim/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
